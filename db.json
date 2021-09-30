@@ -1,0 +1,78 @@
+{
+    "products": [
+      {
+         "id": 1,
+        "productImg":"watch_1", 
+        "productName": "JYSHVI ENTERPRISES Smart watch (Black Strap, Standard)", 
+        "price": 899,
+        "ratings":2,
+        "highlights":"With Call Function. Touchscreen. Fitness and outdoor.",
+        "description":"Feature: 1.1.3TFT touch color screen 2.USB plug-in charging design, remove the wristband and plug it directly into the USB or charging head interface, easy and convenient, plug and play 3. Built-in optical sensor, pay attention to your heart rate changes 24 hours a day, outline heart rate, present your health and beauty 4. Multi-sport mode, running, skipping, sit-ups, etc. 5. Looking for mobile phone features 6.IP67 waterproof 7. Shake a picture 8. Sleep monitoring product information: Product material: ABS PC Product weight: 28g Product size: 27.5*3.7*1.2cm Â Waterproof level: IP67 Compatible systems: Android 4.4 and above, iOS 8.2 and above Features: heart rate, blood pressure, step, push message Main features: wearable hardware smart APP big data cloud service to wear, through the APP control, display, record, data synchronization to the cloud in real time Monitor body health changes, show risk status and evaluate results"
+      },
+      {
+        "id": 2,
+       "productImg":"watch_1", 
+       "productName": "TXOR Storm M5 Smartwatch  (Black Strap, Standard)", 
+       "price": 763,
+       "ratings":3,
+       "highlights":"With Call Function. Touchscreen. Watchphone, Health & Medical, Notifier, Fitness & Outdoor, Safety & Security.",
+       "description":"TXOR's M5 Smartwatch Fitness Band is one unique product which is Unique, Affordable and Light weight, weighing only 25 gm and yet so Powerful for quite a lot of Purposes. You can Just Charge it Full as Quick as in 2 Hrs, and Go on for Long, Just Do a Lot of Purposeful Stuff attaching it to a Bluetooth Phone, check Blood Pressure, Heart Rate with the Monitor, shows your Steps Walked, Messaging Apps Notifications, equipped with a Sleep Monitor for better health Checks and the Battery is Just too Good, 150 mAh which lasts as long as 8 days, 192 hrs. The Wide Range, Superior Quality Manufacturing and Feature List which Just Doesn't end is a Boon for Each and Every Customer." 
+     },
+     {
+      "id": 3,
+     "productImg":"watch_1", 
+     "productName": "TXOR Storm M5 Smartwatch  (Black Strap, Standard)", 
+     "price": 999,
+     "ratings":3,
+     "highlights":"With Call Function. Touchscreen. Watchphone, Health & Medical, Notifier, Fitness & Outdoor, Safety & Security.",
+     "description":"TXOR's M5 Smartwatch Fitness Band is one unique product which is Unique, Affordable and Light weight, weighing only 25 gm and yet so Powerful for quite a lot of Purposes. You can Just Charge it Full as Quick as in 2 Hrs, and Go on for Long, Just Do a Lot of Purposeful Stuff attaching it to a Bluetooth Phone, check Blood Pressure, Heart Rate with the Monitor, shows your Steps Walked, Messaging Apps Notifications, equipped with a Sleep Monitor for better health Checks and the Battery is Just too Good, 150 mAh which lasts as long as 8 days, 192 hrs. The Wide Range, Superior Quality Manufacturing and Feature List which Just Doesn't end is a Boon for Each and Every Customer." 
+   },
+   {
+    "id": 4,
+   "productImg":"watch_1", 
+   "productName": "TXOR Storm M5 Smartwatch  (Black Strap, Standard)", 
+   "price": 1539,
+   "ratings":4,
+   "highlights":"With Call Function. Touchscreen. Watchphone, Health & Medical, Notifier, Fitness & Outdoor, Safety & Security.",
+   "description":"TXOR's M5 Smartwatch Fitness Band is one unique product which is Unique, Affordable and Light weight, weighing only 25 gm and yet so Powerful for quite a lot of Purposes. You can Just Charge it Full as Quick as in 2 Hrs, and Go on for Long, Just Do a Lot of Purposeful Stuff attaching it to a Bluetooth Phone, check Blood Pressure, Heart Rate with the Monitor, shows your Steps Walked, Messaging Apps Notifications, equipped with a Sleep Monitor for better health Checks and the Battery is Just too Good, 150 mAh which lasts as long as 8 days, 192 hrs. The Wide Range, Superior Quality Manufacturing and Feature List which Just Doesn't end is a Boon for Each and Every Customer." 
+ },
+ {
+  "id": 5,
+ "productImg":"watch_1", 
+ "productName": "TXOR Storm M5 Smartwatch  (Black Strap, Standard)", 
+ "price": 799,
+ "ratings":1,
+ "highlights":"With Call Function. Touchscreen. Watchphone, Health & Medical, Notifier, Fitness & Outdoor, Safety & Security.",
+ "description":"TXOR's M5 Smartwatch Fitness Band is one unique product which is Unique, Affordable and Light weight, weighing only 25 gm and yet so Powerful for quite a lot of Purposes. You can Just Charge it Full as Quick as in 2 Hrs, and Go on for Long, Just Do a Lot of Purposeful Stuff attaching it to a Bluetooth Phone, check Blood Pressure, Heart Rate with the Monitor, shows your Steps Walked, Messaging Apps Notifications, equipped with a Sleep Monitor for better health Checks and the Battery is Just too Good, 150 mAh which lasts as long as 8 days, 192 hrs. The Wide Range, Superior Quality Manufacturing and Feature List which Just Doesn't end is a Boon for Each and Every Customer." 
+},
+{
+  "id": 6,
+ "productImg":"watch_1", 
+ "productName": "TXOR Storm M5 Smartwatch  (Black Strap, Standard)", 
+ "price": 763,
+ "ratings":3,
+ "highlights":"With Call Function. Touchscreen. Watchphone, Health & Medical, Notifier, Fitness & Outdoor, Safety & Security.",
+ "description":"TXOR's M5 Smartwatch Fitness Band is one unique product which is Unique, Affordable and Light weight, weighing only 25 gm and yet so Powerful for quite a lot of Purposes. You can Just Charge it Full as Quick as in 2 Hrs, and Go on for Long, Just Do a Lot of Purposeful Stuff attaching it to a Bluetooth Phone, check Blood Pressure, Heart Rate with the Monitor, shows your Steps Walked, Messaging Apps Notifications, equipped with a Sleep Monitor for better health Checks and the Battery is Just too Good, 150 mAh which lasts as long as 8 days, 192 hrs. The Wide Range, Superior Quality Manufacturing and Feature List which Just Doesn't end is a Boon for Each and Every Customer." 
+},
+{
+  "id": 7,
+ "productImg":"watch_1", 
+ "productName": "TXOR Storm M5 Smartwatch  (Black Strap, Standard)", 
+ "price": 763,
+ "ratings":3,
+ "highlights":"With Call Function. Touchscreen. Watchphone, Health & Medical, Notifier, Fitness & Outdoor, Safety & Security.",
+ "description":"TXOR's M5 Smartwatch Fitness Band is one unique product which is Unique, Affordable and Light weight, weighing only 25 gm and yet so Powerful for quite a lot of Purposes. You can Just Charge it Full as Quick as in 2 Hrs, and Go on for Long, Just Do a Lot of Purposeful Stuff attaching it to a Bluetooth Phone, check Blood Pressure, Heart Rate with the Monitor, shows your Steps Walked, Messaging Apps Notifications, equipped with a Sleep Monitor for better health Checks and the Battery is Just too Good, 150 mAh which lasts as long as 8 days, 192 hrs. The Wide Range, Superior Quality Manufacturing and Feature List which Just Doesn't end is a Boon for Each and Every Customer." 
+},
+{
+  "id": 8,
+ "productImg":"watch_1", 
+ "productName": "TXOR Storm M5 Smartwatch  (Black Strap, Standard)", 
+ "price": 763,
+ "ratings":3,
+ "highlights":"With Call Function. Touchscreen. Watchphone, Health & Medical, Notifier, Fitness & Outdoor, Safety & Security.",
+ "description":"TXOR's M5 Smartwatch Fitness Band is one unique product which is Unique, Affordable and Light weight, weighing only 25 gm and yet so Powerful for quite a lot of Purposes. You can Just Charge it Full as Quick as in 2 Hrs, and Go on for Long, Just Do a Lot of Purposeful Stuff attaching it to a Bluetooth Phone, check Blood Pressure, Heart Rate with the Monitor, shows your Steps Walked, Messaging Apps Notifications, equipped with a Sleep Monitor for better health Checks and the Battery is Just too Good, 150 mAh which lasts as long as 8 days, 192 hrs. The Wide Range, Superior Quality Manufacturing and Feature List which Just Doesn't end is a Boon for Each and Every Customer." 
+}
+
+    ]
+    
+  }
